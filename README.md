@@ -6,7 +6,7 @@
 
 A loading-screen tip in under 200 characters: the build isn't stuck, it's just
 thinking about what you did. Go drink water. It will still be thinking when
-you get back.
+you get back. Rewritten fresh for the retry entry.
 
 ## Entry
 
